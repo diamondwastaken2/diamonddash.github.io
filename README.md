@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Diamond Dash</h1>
   <p>
-  <strong>A modded... modded geometry dash version... (based of Web Dashers) (See list below!) </strong>
+  <strong>A modded... modded geometry dash version... (based of Web Dashers) ALSO mainly so i can configure this to bypass school restrictions lol (See list below!) </strong>
   </p>
   <a 
   href="https://web-dashers.github.io/" 
