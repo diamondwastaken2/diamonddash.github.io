@@ -1,13 +1,7 @@
 <div align="center">
-  <img 
-  width="400" 
-  height="400" 
-  alt="web-dashers logo" 
-  src="https://github.com/user-attachments/assets/1b647556-ef74-47f9-be61-46696c57f04e" 
-  />
-  <h1>Web Dashers</h1>
+  <h1>Diamond Dash</h1>
   <p>
-  <strong>A Modded Geometry Dash demo with extra features added! (See list below!) </strong>
+  <strong>A modded... modded geometry dash version... (based of Web Dashers) (See list below!) </strong>
   </p>
   <a 
   href="https://web-dashers.github.io/" 
