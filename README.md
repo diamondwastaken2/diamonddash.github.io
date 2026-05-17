@@ -3,27 +3,6 @@
   <p>
   <strong>A modded... modded geometry dash version... (based of Web Dashers) ALSO mainly so i can configure this to bypass school restrictions lol (See list below!) </strong>
   </p>
-  <a 
-  href="https://web-dashers.github.io/" 
-  target="_blank">
-    <img 
-    width="279" 
-    height="89" 
-    alt="PlayOnline" 
-    src="https://github.com/user-attachments/assets/830fc500-f289-4b96-9686-4fbb5b9af3f5" 
-    />
-  </a>
-  &nbsp;
-  <a 
-  href="https://discord.gg/h6xYNUBFnq" 
-  target="_blank">
-    <img 
-    width="279" 
-    height="89" 
-    alt="JoinTheDiscord" 
-    src="https://github.com/user-attachments/assets/285a9de1-e72a-491a-9dd4-3d31887e73b2" 
-    />
-  </a>
 </div>
 
 ---
@@ -42,7 +21,7 @@
 - **All Objects Working** - In the current state of Web Dashers, you might notice most objects seem to be bugged and/or not showing.
 - **Level Editor** - We wish to add a fully working level editor, with all of the objects in Geometry Dash to choose from, and more!
 
-### Come try out the WIP Web Dashers demo at:
+### Play the original! demo at:
 **[web-dashers.github.io](https://web-dashers.github.io/)**
 
 ---
